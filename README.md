@@ -1,6 +1,6 @@
 ### Hey Ich Bin Gans(Enrico)
 
-## Ich bin Developer oder so was
+## Ich bin Developer oder so was in der art lol
 - Ziel? Dart Lernen
 
 ### Ereichbarkeit:
